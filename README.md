@@ -1,1 +1,1 @@
-# Machine-Learnining-Zoomcamp
+# Machine-Learning-Zoomcamp Data TalksClub
